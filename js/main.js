@@ -5,14 +5,3 @@ $(document).ready(function() {
 		$('body').toggleClass('lock');
 	});
 });
-
-const sr = ScrollReveal();
-
-sr.reveal('.main__img', {
-  origin: 'left',
-  distance: '200px',
-  duration: 2000,
-
-  scale: 0.5,
-  reset: true
-});
