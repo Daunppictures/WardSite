@@ -8,6 +8,7 @@ Ward  Is:
 - information content
 - your time 
 
+
 Contacts:
 ----------
 - email: solodovnikov.toni@gmail.com
